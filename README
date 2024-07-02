@@ -1,0 +1,12 @@
+Goal: Create a semi-functioning convolutional neural network in a short amount of time (numpy allowed)
+
+Steps: 
+1) Import and process an image
+2) Take matrix from image and pump it through the layers
+
+Creation steps: 
+1) Create a matrix class for each layer of nodes
+2) create classes for the following types of layers that take a matrix and output a matrix:
+  - convolution
+  - pooling (of various types)
+  - fully connected dense layers
