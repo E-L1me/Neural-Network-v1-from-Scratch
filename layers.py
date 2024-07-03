@@ -8,7 +8,7 @@ class Convolution():
         self.k = np.random.rand(ksize)
     
     def convolute(self, mtx):
-        for i 
+    
 
     def run(self, mtx: np.nparray):
         
